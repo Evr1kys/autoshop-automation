@@ -1,5 +1,7 @@
 # AutoShop Automation
 
+[![CI](https://github.com/Evr1kys/autoshop-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/Evr1kys/autoshop-automation/actions/workflows/ci.yml)
+
 Python-приложение для автоматизации магазина цифровых товаров и Steam Points.
 
 В проекте есть:
