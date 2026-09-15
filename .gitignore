@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.sqlite*
+*.log
+temp/
+.DS_Store
+
+# Old production checks require a live database and bot token.
+/test_*.py
